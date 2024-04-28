@@ -374,7 +374,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Camera.cs"
+"Assets/Ennemi/EnemyFollow.cs"
+"Assets/HealthBar.cs"
+"Assets/Player/PlayerHealth.cs"
 "Assets/Player/PlayerMovement.cs"
+"Assets/Ui/HealPowerUp.cs"
 -langversion:9.0
 
 /deterministic
